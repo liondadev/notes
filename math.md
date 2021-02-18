@@ -2,6 +2,14 @@
 
 ## Find the area of a box
 Area = l * w
-if one of the variables are x just use devision
 
 ## Find the area of a triangle
+Area = (l * w) / 2
+
+# Finding the base of an object
+
+## Funding base of box
+Always the bottom, as long as it could stand up
+
+## Finding the area of a triangle
+The side on which the trangle could stand on its own
