@@ -8,7 +8,7 @@ Area = l * w
 Area = (l * w) / 2
 
 # Finding the base of an object
-Allows yuo do calculate area
+Allows you do calculate area
 
 ## Funding base of box
 Always the bottom, as long as it could stand up
