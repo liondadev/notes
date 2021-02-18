@@ -27,3 +27,6 @@ Homework and other handouts
 
 ## 2/18/2021
 1. Area = 8 * 10 / 2 = 40
+2. Area = 7 * 6 / 2 = 21
+3. Area = 4 * 6 / 2 = 12
+4. 
