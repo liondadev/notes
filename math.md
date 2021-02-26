@@ -29,3 +29,10 @@ Homework and other handouts
 1. Area = 8 * 10 / 2 = 40
 2. Area = 7 * 6 / 2 = 21
 3. Area = 4 * 6 / 2 = 12
+
+# Calculateing area
+
+## Composite Shapes
+1. Cut them into smaller shapes
+2. find a label missing lengths using CLUES, not "it looks like" (use the vertical lines to find missing vertical lines, use horizontal for horizontal)
+3. User perimiter by adding all outer shapes (no dotted lines)
