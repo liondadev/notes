@@ -36,3 +36,27 @@ Homework and other handouts
 1. Cut them into smaller shapes
 2. find a label missing lengths using CLUES, not "it looks like" (use the vertical lines to find missing vertical lines, use horizontal for horizontal)
 3. User perimiter by adding all outer shapes (no dotted lines)
+
+# Turn fraction into decimal
+
+## 13/6
+1. Devide 6 devided by 16 = 0.461538462
+2. Round to hundred = 0.46
+
+# Turn decimal to simp fraction
+
+## 0.45
+1. Turn into fraction = 45/100
+2. Simplify = 9/20
+
+## 0.4
+1. Turn into fraction = 4/10
+2. Simplify = 2/5
+
+## 0.55
+1. Turn into fraction = 55/100
+2. Simplify = 11/20
+
+## 3.44
+1. Turn into fraction = 344/100
+2. Simplify = 2 11/25

@@ -24,7 +24,7 @@
 2. Rayleigh Waves
 
 # IE 2.2 Main Ideas
-1. The focus is the area where earthquakes start
+1. The focus is the area where rocks start to break
 2. An earthquake is caused by seisemic waves
 3. There are two types of waves, Primary waves and S or secondary waves
 4. Primary and Secondary waves are in a catgegory called Surface Waves
