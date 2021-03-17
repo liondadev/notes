@@ -59,9 +59,9 @@
 # Categories of Seismic Waves
 
 ## Surface Waves
-Rayleigh Waves
-Love Waves
+1. Rayleigh Waves
+2. Love Waves
 
 ## Body Waves
-Primary Waves (P Waves)
-Secondary Waves (S Waves)
+1. Primary Waves (P Waves)
+2. Secondary Waves (S Waves)
