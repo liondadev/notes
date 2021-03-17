@@ -28,3 +28,13 @@
 2. An earthquake is caused by seisemic waves
 3. There are two types of waves, Primary waves and S or secondary waves
 4. Primary and Secondary waves are in a catgegory called Surface Waves
+
+# Categories of Seismic Waves
+
+## Surface Waves
+Rayleigh Waves
+Love Waves
+
+## Body Waves
+Primary Waves (P Waves)
+Secondary Waves (S Waves)
