@@ -60,3 +60,18 @@ Homework and other handouts
 ## 3.44
 1. Turn into fraction = 344/100
 2. Simplify = 2 11/25
+
+# Random Notes
+
+## Turning 48.8 into precentage
+1. Turn into fraction = 488/100
+2. Turn fraction into precentage = 4.88%
+
+## Turn 48.8% into decimal
+1. Devide by 100 = .448
+
+## Turn .448 into fraction
+1. Turn into normal fraction = 449 / 1000
+2. Devide by 2 = 244 / 500
+3. Devide by 2 = 122 / 250
+4. Devide by 2 = 61 / 125
