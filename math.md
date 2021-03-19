@@ -81,6 +81,14 @@ Homework and other handouts
 2. 1/4 = 0.25
 3. 1/2 = 0.50
 
+# Place Value
+
+##  ._ _ _ _
+1. Tens
+2. Hundreds
+3. Thousands
+4. Ten Thousands 
+
 # Homework Answers
 
 ## 3/18/2021
