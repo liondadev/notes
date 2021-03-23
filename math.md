@@ -111,3 +111,7 @@ Homework and other handouts
 3. 12
 3a. 54 in
 3b. 135 in2
+
+## 3/23/2021
+1. a = 32 | p = 104 cm2
+2. a = 53 | p = 16 cm2
