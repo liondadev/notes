@@ -107,7 +107,7 @@ Homework and other handouts
 
 ## 3/19/2021
 1. 8
-2. 5
-3. 10
-3a. 135
-3b. 143
+2. 10
+3. 12
+3a. 54 in
+3b. 135 in2
