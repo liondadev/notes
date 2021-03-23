@@ -65,3 +65,7 @@
 ## Body Waves
 1. Primary Waves (P Waves)
 2. Secondary Waves (S Waves)
+
+# Calculagate epicenter of an earchquake
+Use triangulation, get data from 3 different stations and find where
+they intersect.
