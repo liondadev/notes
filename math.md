@@ -113,7 +113,7 @@ Homework and other handouts
 3b. 135 in2
 
 ## 3/23/2021
-1. a = 322 | p = 104 cm2
-2. a = 53 | p = 16 cm2
+1. a = 275 cm2 | p = 88 cm
+2. a = 88 cm2 | p = 48 cm
 
 # Other Notes And Stuff
