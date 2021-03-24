@@ -69,3 +69,5 @@
 # Calculagate epicenter of an earthquake
 Use triangulation, get data from 3 different stations and find where
 they intersect.
+
+# Notes
