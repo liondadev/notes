@@ -116,4 +116,12 @@ Homework and other handouts
 1. a = 275 cm2 | p = 88 cm
 2. a = 88 cm2 | p = 48 cm
 
+## 3/25/2021
+1. 13
+2. 4
+3. 34
+4. 5
+5. 43
+6. 4
+
 # Other Notes And Stuff
