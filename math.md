@@ -10,7 +10,7 @@ Area = (l * w) / 2
 # Finding the base of an object
 Allows you do calculate area
 
-## Funding base of box
+## Finding base of box
 Always the bottom, as long as it could stand up
 
 ## Finding the base of a triangle
