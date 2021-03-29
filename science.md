@@ -56,9 +56,9 @@
 3. There are two types of waves, Primary waves and S or secondary waves
 4. Primary and Secondary waves are in a catgegory called Surface Waves
 
-## IE 2.3 Mian Ideas
+## IE 2.3 Main Ideas
 1. You use a seismograph to measure them
-2. You can use a satellite to measure faults
+2. You can use a satellite to measure faults    
 3. Faults is where an earthquake is most likely to occur
 4. monitor means to "watch closely"
 
