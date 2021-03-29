@@ -121,9 +121,26 @@ Homework and other handouts
 2. 32.93
 
 ## 3/26/2021
-1. 10.3
+1. 3.74
 2. 160
 3. 43
 4. .0045
 
+# Stimulus
+
+## 3/29/2021
+### O
+1. 
+### Q
+
+### C
+
 # Other Notes And Stuff
+
+## For % problems with multiple people and nums, try theese methods
+1. Table
+| Person  	| %  	| Miles
+|---------	|----	|-------
+| Xander  	| 37 	| 14.8
+| Yolanda 	| 33 	| 13.2
+| Zam     	| 30 	| 0.4
