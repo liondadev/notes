@@ -126,6 +126,11 @@ Homework and other handouts
 3. 43
 4. .0045
 
+## 3/29/2021
+1. 33
+2. 22
+3. 54
+
 # Stimulus
 
 ## 3/29/2021
