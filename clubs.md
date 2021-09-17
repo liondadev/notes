@@ -37,10 +37,10 @@ Completely student run
 Goal - At least 6 publications
 Dont need to be writer
 
-# ⚽ Sports Talk
+# Sports Talk
 Goal: Sit and talk about sports
 Debate who the GOAT is
 or who the best team is
 
-# 🏁 Chess Club
+# Chess Club
 Play chess
