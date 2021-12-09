@@ -149,3 +149,6 @@ Homework and other handouts
 | Xander  	| 37 	| 14.8
 | Yolanda 	| 33 	| 13.2
 | Zam     	| 30 	| 0.4
+
+# Pre-Algebra
+## 7th Grade
